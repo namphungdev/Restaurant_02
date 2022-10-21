@@ -5,8 +5,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using PagedList;
-using X.PagedList.Mvc.Core;
 using Microsoft.AspNetCore.Cors.Infrastructure;
 
 using Microsoft.AspNetCore.Http;
